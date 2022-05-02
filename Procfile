@@ -1,1 +1,1 @@
-web: gunicorn thewizard.wsgi
+web:gunicorn thewizard.wsgi
